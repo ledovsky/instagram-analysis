@@ -1,0 +1,10 @@
+app/settings.py
+
+
+*.pyc
+
+*.DS_Store
+
+*.sublime-project
+*.sublime-workspace
+*.xmind
